@@ -1,0 +1,72 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 140px;
+  height: min-content;
+  flex-direction: column;
+  place-content: center;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.image2 {
+  width: 100px;
+  height: 100px;
+  background-image:/* webpackIgnore: true */ url('assets/image22.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame11862 {
+  width: min-content;
+  height: min-content;
+}
+.enjoyingThisApp {
+  color: #100e3a;
+  font-size: 20px;
+  line-height: 140%;
+  font-weight: bold;
+  font-family: Muli, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.enjoyingThisApp2 {
+  color: #100e3a;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 600;
+  font-family: Muli, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 117px;
+  height: min-content;
+  flex-direction: column;
+}
+.enjoyingThisApp3 {
+  color: #b6bac3;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: 600;
+  font-family: Muli, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.addIconItem {
+  width: 42px;
+  height: 42px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
